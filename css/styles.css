@@ -1,0 +1,30 @@
+.intro {
+  font-style: italic;
+  font-size: 20px;
+}
+
+h1.class-one {
+  color:white;
+}
+
+p.class-one {
+  color:white;
+  font-size: 27px;
+}
+
+.jumbotron {
+  background-image:url("http://www.all-flags-world.com/country-flag/Belgium/flag-belgium-XL.jpg");
+  background-position:center;
+  opacity: 1;
+}
+
+hr {
+  width: 100%;
+  height: 2px;
+  border-bottom: 5px solid black;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
