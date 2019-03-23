@@ -12,6 +12,7 @@ _First use of bootstrap classes and elements to style a web page. Some classes u
 
 * _Clone the file from github_
 * _Open the file and double click index.html_
+* _Alternatively visit https://marclignarius.github.io/Visit-Belgium-Site/_
 
 ## Support and contact details
 
